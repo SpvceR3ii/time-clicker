@@ -29,7 +29,7 @@ Once you’re in-game, the mod automatically starts tracking your time. You’ll
 Got a cool idea, or you've found a bug? Contributions are open! Here's how you can help:
 
 1. **Fork** the repository.
-2. **Make your changes** and commit them with a nicer message that doesn't tell other to "disable their hardware".
+2. **Make your changes** and commit them with a nicer message that doesn't tell others to "disable their hardware".
 3. **Push** to the branch: `git push origin feature-idea`
 4. **Create a Pull Request** on GitHub, and await a response... In 10-20 business weeks of course.
 

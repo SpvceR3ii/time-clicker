@@ -6,6 +6,7 @@ import net.minecraft.client.MinecraftClient;
 import net.minecraft.client.gui.DrawContext;
 import net.minecraft.text.Text;
 
+// fucking hell
 public class TimeClicker implements ClientModInitializer {
 
 	private long startTime;
@@ -17,6 +18,7 @@ public class TimeClicker implements ClientModInitializer {
 		HudRenderCallback.EVENT.register(this::onHudRender);
 	}
 
+	// render the client and calculate the shi
 	private void onHudRender(DrawContext drawContext, float tickDelta) {
 		MinecraftClient client = MinecraftClient.getInstance();
 		long currentTime = System.currentTimeMillis();
@@ -25,7 +27,7 @@ public class TimeClicker implements ClientModInitializer {
 		long minutes = (timePlayedMillis / (1000 * 60)) % 60;
 		long hours = (timePlayedMillis / (1000 * 60 * 60)) % 24;
 
-		String timePlayed = String.format("Time Played: %02d:%02d:%02d", hours, minutes, seconds);
-		drawContext.drawTextWithShadow(client.textRenderer, Text.of(timePlayed), 10, 10, 0xFFFFFF);
+		String timePlayed = String.format("Time Played: %02d:%02d:%02d", hours, minutes, seconds); // the actual thing
+		drawContext.drawTextWithShadow(client.textRenderer, Text.of(timePlayed), 10, 10, 0xFFFFFF); // config (?)
 	}
 }

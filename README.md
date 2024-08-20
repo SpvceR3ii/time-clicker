@@ -18,7 +18,7 @@
 1. **Download the mod** from the [Modrinth](https://modrinth.com/mod/time-clicker) page.
 2. **Install Fabric Loader** if you haven't already. You can grab it from [here](https://fabricmc.net/use/).
 3. **Place the mod JAR file** in your `.minecraft/mods` folder.
-4. **Launch Minecraft** and enjoy!
+   4. **Launch Minecraft** and enjoy!
 
 ## Usage 🕹️
 

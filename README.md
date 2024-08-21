@@ -22,16 +22,16 @@
 
 ## Usage 🕹️
 
-Once you’re in-game, the mod automatically starts tracking your time. You’ll see the time spent displayed in the top-left corner of your screen. Now you’ll know exactly how many hours you've put into building that amazing, dirt castle.
+Once you’re in a server or world, the mod automatically starts tracking your time. You’ll see the time spent displayed in the top-left corner of your screen. Now you’ll know exactly how many hours you've put into building that amazing, dirt castle.
 
 ## Contributing 🤝
 
 Got a cool idea, or you've found a bug? Contributions are open! Here's how you can help:
 
-1. **Fork** the repository.
-2. **Make your changes** and commit them with a nicer message that doesn't tell others to "disable their hardware".
+1. **Fork** the repository
+2. **Make your changes** and commit them with a nice message (please!)
 3. **Push** to the branch: `git push origin feature-idea`
-4. **Create a Pull Request** on GitHub, and await a response... In 10-20 business weeks of course.
+4. **Create a Pull Request** on GitHub, and await a response... In 10-20 business weeks of course
 
 ## License 📜
 
@@ -51,6 +51,6 @@ Need help? Want to discuss a feature? Hit us up:
 
 ---
 
-*As mentioned above, Time Clicker is licensed under the GPLv3 License. Please make sure to read it before accessing any of the source code from this mod.*
+*As mentioned above, Time Clicker is licensed under the GPLv3 License. Please make sure to read the license before accessing any of the source code from this mod.*
 
 *(Space, make sure to actually put something useful down here. Many thanks. - Corp')*

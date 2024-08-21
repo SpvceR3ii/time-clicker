@@ -13,8 +13,7 @@ public class TimeClicker implements ClientModInitializer {
 	private boolean trackingTime = false; // to track or not to track?
 
 	@Override
-	public void onInitializeClient() {
-		// registering event listener
+	public void onInitializeClient() { // listeners.
 		ClientTickEvents.END_CLIENT_TICK.register(this::onClientTick);
 		HudRenderCallback.EVENT.register(this::onHudRender);
 	}

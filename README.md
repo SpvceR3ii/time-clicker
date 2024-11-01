@@ -30,7 +30,7 @@ Got a cool idea, or you've found a bug? Contributions are open! Here's how you c
 
 1. **Fork** the repository
 2. **Make your changes** and commit them with a nice message (please!)
-3. **Push** to the branch: `git push origin feature-idea`
+3. **Push** to the branch...
 4. **Create a Pull Request** on GitHub, and await a response... In 10-20 business weeks of course
 
 ## License 📜
